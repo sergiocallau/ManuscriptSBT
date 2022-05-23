@@ -1,0 +1,10 @@
+Drying and flooding check at: Grid cell centres and faces
+Depth at grid cell faces: Min
+Threshold depth: 0.1 m
+Marginal depth: -999
+Smoothing time: 60 min
+Advection scheme for momentum: Cyclic
+Advection scheme for transport: Cyclic
+
+Θ Forester filter (Horizontal)
+Θ Forester filter (Vertical)
