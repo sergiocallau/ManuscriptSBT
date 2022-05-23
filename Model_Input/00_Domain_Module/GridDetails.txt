@@ -1,0 +1,6 @@
+Grid
+- Latitude: 48.65
+- Orientation: 0
+- Number of layers: 18
+
+% Layer thickness: 5.5555556
