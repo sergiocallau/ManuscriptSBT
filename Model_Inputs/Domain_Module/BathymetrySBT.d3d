@@ -1,0 +1,8 @@
+[FileInformation]
+  FileGeneratedBy  = Deltares, QUICKIN Version 5.03.00.59149 (Win64), Nov 13 2018, 21:18:16
+  FileCreationDate = 2020-11-22, 18:32:51
+  FileVersion      = 0.02
+[Grid]
+  Type        = RGF
+  FileName    = SZBGrid_[9x15]_orthogonalised.grd
+  FlowDepth   = grid[9x15]_depth.dep
