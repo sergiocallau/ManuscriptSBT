@@ -1,0 +1,5 @@
+Reference date: 24 07 2016
+Simulation start time: 24 07 2016 00 00 00
+Simulation stop time: 07 08 2016 00 00 00
+Time step: 0.1
+Local time zone (LTZ): 0 (+2)
