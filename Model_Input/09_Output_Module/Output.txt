@@ -1,0 +1,17 @@
+Storage
+
+- Storage map results
+  start time: 29 07 2016 00 00 00
+  stop time: 07 08 2016 00 00 00
+  interval: 60
+  History interval: 60
+
+- Store communication file
+  Start time: 29 07 2016 00 00 00
+  Stop time: 07 08 2016 00 00 00
+  Inverval: 60
+  Restart int: 60
+
+Details
+
+All selected
