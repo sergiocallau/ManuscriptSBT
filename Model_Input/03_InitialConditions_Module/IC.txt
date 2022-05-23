@@ -1,0 +1,7 @@
+non-transient
+Water Level: -7.16 m
+Temperature: 15 °C
+
+steady
+Water Level: -0.5 m
+Temperature: 15 °C
