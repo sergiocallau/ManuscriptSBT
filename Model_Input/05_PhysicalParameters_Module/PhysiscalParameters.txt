@@ -1,0 +1,25 @@
+Constants
+- Gravity: 9.81 [m/s^2]
+- Water density: 1000 [kg/m^3]
+- Air density: 1 [kg/m^3]
+- Salinity: 31 [ppt]
+
+Roughness
+  Bottom roughness
+- Rougness formula: Manning
+- Uniform --> U: 0.02; V:0.02
+  Wall roughness
+- Slip condition: Free
+
+Viscosity
+ Backgroud horizontal viscosity/diffusivity
+- Uniform
+  + Horizontal eddy viscosity: 0.001
+  + Horizontal eddy diffusivity: 10
+
+ Background vertical eddy viscosity/diffusivity
+  + Vertical eddy viscosity: 0.0001
+  + Verical eddy diffusivity: 0
+  + Ozmidov lenghy scale: 0
+ Model for 3D turbulence
+  + k-Epsilon
