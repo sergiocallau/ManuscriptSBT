@@ -1,0 +1,52 @@
+table-name           'Boundary Section : 1'
+contents             'Uniform   '
+location             'outlet              '
+time-function        'non-equidistant'
+reference-time       20160730
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Temperature          end A uniform'       unit '[°C]'
+parameter            'Temperature          end B uniform'       unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  2.6411900e+001  2.6411900e+001
+ 1.1520000e+004  2.6411900e+001  2.6411900e+001
+table-name           'Boundary Section : 2'
+contents             'Uniform   '
+location             'Schwerzanbach       '
+time-function        'non-equidistant'
+reference-time       20160730
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Temperature          end A uniform'       unit '[°C]'
+parameter            'Temperature          end B uniform'       unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  1.8000000e+001  1.8000000e+001
+ 1.1520000e+004  1.8000000e+001  1.8000000e+001
+table-name           'Boundary Section : 3'
+contents             'Uniform   '
+location             'Seebach             '
+time-function        'non-equidistant'
+reference-time       20160730
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Temperature          end A uniform'       unit '[°C]'
+parameter            'Temperature          end B uniform'       unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  1.8000000e+001  1.8000000e+001
+ 1.1520000e+004  1.8000000e+001  1.8000000e+001
+table-name           'Boundary Section : 4'
+contents             'Uniform   '
+location             'RZU                 '
+time-function        'non-equidistant'
+reference-time       20160730
+time-unit            'minutes'
+interpolation        'linear'
+parameter            'time                '  unit '[min]'
+parameter            'Temperature          end A uniform'       unit '[°C]'
+parameter            'Temperature          end B uniform'       unit '[°C]'
+records-in-table     2
+ 0.0000000e+000  1.8000000e+001  1.8000000e+001
+ 1.1520000e+004  1.8000000e+001  1.8000000e+001
