@@ -1,0 +1,11 @@
+'ModelOutcomesVisualization_2.m':
+Matlab script used to plot the reservoir model outcomes at the measurement station.
+
+'SM_Scenario0x.mat':
+Surrogate model outcomes (training runs) and horizontal flow velocity observations.
+
+'Det_Scenario0x.mat':
+Surrogate and full complexity model outcomes (post-calibration).
+
+'T_Observations.mat':
+Temperature profile observed at the measurement station.
