@@ -1,0 +1,14 @@
+'NonLinear_dependence.m':
+Matlab script to visualize the non-linear dependence between the calibration parameters.
+
+'Likelihood_scenario0X.mat':
+Likelihoods of each scenario reached after the construction of the surrogate models.
+
+'PD_Scenario_0x.mat'
+Posterior distributions yielded in each scenario after the construction of the surrogate models.
+
+'Prior_distribution_2x10^6.mat':
+Matrix with 2*10e6 calibration parameters sets used to yield the posterior distributions.
+Each column consists of sets of values for the three parameters identified to calibrate the models
+(i.e., Background horizontal eddy viscosity and difussivity, and initial water temperature
+profile)
