@@ -3,9 +3,3 @@ Matlab script used to plot the surrogate adjusted and full-complexity model outc
 
 'SR_bathymetry.mat':
 Bathymetry of the Schwarzenbach reservoir.
-
-'SurrogateMatrix_2.mat'
-Outcomes of the surrogate model adjusted using the maximum likelihoods of calibration parameters according Scenario 0.
-
-'HorizontalVelocityDomainDELFT3D.mat.mat'
-Outcomes of the full-complexity model using the maximum likelihoods of calibration parameters according Scenario 0.
