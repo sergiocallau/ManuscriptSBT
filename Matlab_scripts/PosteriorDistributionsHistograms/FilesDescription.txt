@@ -1,0 +1,11 @@
+'PosteriorDistributions_plot_histograms.m': 
+Matlab script used to create the posterior distribution histograms
+
+'Posterior_distribution_Scenario0x.mat': 
+Matrix (3 x n) with the calibration parameters that form the posterior distributions
+
+Description of the matrices (3 x n):
+row 1: values of the background horizontal eddy viscosity
+row 2: values of the background horizontal eddy difussivity
+row 3: values of the initial water temperarute profile at the vicinity of the outlet tower
+n: number of calibratrion parameter sets that form the posterior distribution
